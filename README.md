@@ -14,7 +14,7 @@ Enables other application to use this data.
    * Experimented in Postman to find out where can the filter JSON to be put in. Was not sure if it should go in parameter or somewhere else.
 ## Firefox
    * Used developer mode to find out where and how the data's are coming from.
-   * [Finding Signal](./tradingview.PNG)
+   * ![Finding Signal](./tradingview.PNG)
    
 ## Used Library
  * Pandas
